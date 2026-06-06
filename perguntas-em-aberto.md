@@ -11,4 +11,5 @@ lados** aqui em vez de escolher em silêncio. Marque suposições como hipótese
 
 | Data | Tema | Pergunta / conflito | Status |
 |---|---|---|---|
-| 2026-06-06 | — | _(nenhuma pergunta registrada ainda)_ | — |
+| 2026-06-06 | Integração de dados | Projeto Python de extração da Clinicorp (`pull_data.py`) deve alimentar quais páginas do cofre, e com que periodicidade? Definir como os dados extraídos viram agregados em `financeiro/` e `relacionamento/` sem expor dados clínicos. | Em aberto |
+| 2026-06-06 | Versionamento | Pasta local ainda se chama `clinicorp-claude`; renomear para `tratare-claude` exige fechar a sessão do Claude Code. | Pendente |
