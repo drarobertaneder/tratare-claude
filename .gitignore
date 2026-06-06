@@ -1,0 +1,28 @@
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Credenciais reais (nunca versionar) — manter apenas .env.example
+.env
+.env.local
+
+# Saídas de extração de dados (podem conter dados de pacientes — LGPD)
+export/
+
+# Ambiente Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporários / rascunhos
+*.tmp
+~$*
+*.bak
+
+# Anexos brutos volumosos (descomente se quiser manter fora do versionamento)
+# bruto/**/*.pdf
+# bruto/**/*.xlsx
+# bruto/**/*.jpg
+# bruto/**/*.png
